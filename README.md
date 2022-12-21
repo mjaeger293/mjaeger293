@@ -1,5 +1,5 @@
 ### Hi there 👋
-![snake gif](https://github.com/mjaeger293/mjaeger293/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/eagrundy/mjaeger293/blob/output/github-contribution-grid-snake.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaeger293)](https://github.com/anuraghazra/github-readme-stats)
 
