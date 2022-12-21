@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Snake animation](https://github.com/mjaeger293/mjaeger293/blob/output/github-contribution-grid-snake.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaeger293&count_private=true)](https://github-readme-stats.vercel.app/api?username=mjaeger293&count_private=true&include_all_commits=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaeger293&count_private=true&include_all_commits=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaeger293)](https://github.com/anuraghazra/github-readme-stats)
 
